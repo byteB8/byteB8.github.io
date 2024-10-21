@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KumaarBalbir.github.io/sitemap.xml
+Sitemap: https://KumaarBalbir.github.io//sitemap.xml
