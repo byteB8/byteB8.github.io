@@ -1,15 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - KumaarBalbir
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
-  - george-gca/multi-language-al-folio
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - KumaarBalbir/reg-grow-bfs
+  - KumaarBalbir/go-parser
