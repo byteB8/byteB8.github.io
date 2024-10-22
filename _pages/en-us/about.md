@@ -3,25 +3,24 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Technical Project Assistant, Texmin Innovation Hub | UG <a href='https://www.iitism.ac.in/'>IIT(ISM)</a> Dhanbad
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <!-- <p>555 your office number</p> -->
+    <!-- <p>123 your address street</p> -->
+    <!-- <p>Your City, State 12345</p>  -->
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a Technical Project Assistant working on hyperpectral imaging applications in the mining industry. I have received my bachelor of technology in Mining engineering from [IIT(ISM)](https://www.iitism.ac.in/) Dhanbad.
+I am broadly interested in developing and applying machine learning methods in various domains with particular emphasis in healthcare and education. Previously, I have interned at [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in/) on **Network Optimization** model for traffic and transit, advised by Professor [Tarun Rambha](http://civil.iisc.ac.in/~tarunr/). Additionally, I have worked as a software engineer intern at [Plaid Inc](https://plaid.co.jp/en/) working on development of intelligent bot.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am always open to discussion and excited to exchange engineering and research perspective. If you are interested in collaborating or have any questions, feel free to reach out via email.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

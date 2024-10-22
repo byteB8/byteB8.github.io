@@ -6,7 +6,7 @@
     "email": "prasadbalbir1056@gmail.com",
     "phone": "(+91)6378533796",
     "url": "https://kumaarbalbir.github.io/",
-    "summary": "A B.tech undergraduate from IIT(ISM) Dhanbad. I have a keen interest in Machine Learning, Deep Learning, Data Science, and AI. I am currently working on a project involing physics informed neural network.",
+    "summary": "I am a motivated researcher and software engineer with experience in machine learning, optimization models, and software development. My work includes projects on network optimization for urban transportation, machine learning applications in biofluids, and developing AI solutions to enhance productivity. I am skilled in languages like Python and C++, and I have a strong background in leveraging technology for practical problem-solving in both research and industry settings.",
     "location": {
       "address": "R-256 Emarald Hostel",
       "postalCode": "826004",
@@ -24,141 +24,148 @@
   },
   "work": [
     {
-      "name": "Indian Institute of Technology, Dhanbad",
-      "position": "Project Fellow",
-      "url": "https://example.com",
-      "startDate": "2024-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Indian Institute of Science, Bangalore",
+      "position": "Undergraduate Research Intern",
+      "url": "https://iisc.ac.in",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-31",
+      "summary": "Worked with the Centre for Infrastructure, Sustainable Transportation, and Urban Planning on Network Optimization Models for Traffic and Transit.",
       "highlights": [
-        "Relativity"
+        "Developed an open-source tool to simulate transit systems and predict crowding/congestion.",
+        "Analyzed passenger behavior in scenarios such as ticket price changes, delays, and cancellations.",
+        "Implemented efficient algorithms in C++/OpenMP for fare calculation, travel time, waiting time, and route occupancy.",
+        "Used Python/Pandas for visualization and validation of the simulation model."
+      ]
+    },
+    {
+      "name": "Biofluids Lab, Indian Institute of Technology (ISM) Dhanbad",
+      "position": "Project Fellow",
+      "url": "https://iitism.ac.in",
+      "startDate": "2024-05-01",
+      "endDate": "Present",
+      "summary": "Researching quantitative methods to detect nasal septum deviations and evaluate hydraulic resistance pre- and post-septoplasty surgery.",
+      "highlights": [
+        "Developing a software solution to assist doctors in optimizing drug delivery based on patient CT scans (DICOM format).",
+        "Applying machine learning models to predict pressure drop and improve flow parameters."
+      ]
+    },
+    {
+      "name": "Plaid Inc, Tokyo, Japan",
+      "position": "Software Engineer Intern",
+      "url": "https://plaid.co.jp",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Designed and developed an AI bot for Slack to improve productivity.",
+      "highlights": [
+        "Increased team productivity by 30% with the AI bot.",
+        "Utilized Docker to reduce deployment time by 50% and ensure consistent performance.",
+        "Leveraged Terraform to manage infrastructure on GCP, reducing provisioning time by 40%."
+      ]
+    },
+    {
+      "name": "Mercor",
+      "position": "AI Benchmarker",
+      "url": "https://mercor.io",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-31",
+      "summary": "Evaluated and compared the performance of large language models (LLMs) across diverse tasks.",
+      "highlights": [
+        "Benchmarked LLMs such as GPT-4o, Gemini Pro 1.5, and Claude.",
+        "Reviewed and annotated 100+ prompt-response pairs, focusing on code generation, summarization, and language translation."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "organization": "Kartavya Foundation",
+      "location": "Dhanbad, India",
+      "position": "Instructor",
+      "url": "https://en.wikipedia.org/wiki/Kartavya_(organization)",
+      "startDate": "2022-04-01",
+      "endDate": "2023-11-01",
+      "summary": "Kartavya is a voluntary organisation working towards educating poor children living in slums and villages, and helping their families earn a better living.",
       "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
+        "Had a great experience, teaching maths and physics to students.",
+        "Organised cultural events and shared the joy together."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "Indian Institute of Technology, Dhanbad, India",
+      "location": "Dhanbad, India",
+      "url": "https://www.iitism.ac.in/",
+      "area": "Mining Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2020-11-01",
+      "endDate": "2024-05-10",
+      "score": "8.0/10.0",
       "courses": [
-        "Theory of Relativity"
+        "Engineering economics and finance",
+        "Engineering mechanics",
+        "Engineering mathematics",
+        "Computer programming in C",
+        "Numerical methods in engineering",
+        "Elements of mining",
+        "Geology for engineering and sciences",
+        "Rock breakage",
+        "Rock mechanics",
+        "Mine ventilation",
+        "underground coal/metal mining",
+        "Data structures and algorithms",
+        "Object oriented programming",
+        "Machine learning",
+        "Deep learning",
+        "Data analytics",
+        "Advanced quantum mechanics",
+        "Operation Research",
+        "Cryptography",
+        "Graph algorithms",
+        "Image and video processing",
+        "Social psychology"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Microsoft Mentee",
+      "date": "2022-05-01",
+      "awarder": "Microsoft",
+      "url": "",
+      "summary": "Worked on automating the academics course distribution and attendance management using machine learning."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Data structures and algorithms in C/C++",
+      "date": "2022-09-01",
+      "issuer": "Udemy",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Predicting the porosity of granite at elevated temperature using machine learning (under review).",
+      "publisher": "Earth Science Informatics",
+      "releaseDate": "2024-05-01",
+      "url": "",
+      "summary": "Developed an ensemble of machine learning models (RF, SVM, XGBoost, KNN) to accurately predict the porosity of granite at elevated temperatures (up to 1000°C), achieving over 95% accuracy with low error metrics. Conducted sensitivity analysis to identify key factors influencing porosity variations."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "C++",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Software development"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -166,45 +173,43 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ML in healthcare, ML in education"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Jhon Doe (Just for placeholder)",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Prediction of Paper Topics Using Graph Neural Networks",
+      "summary": "Developed a graph-based machine learning model to predict research paper topics using Graph Neural Networks (GNN).",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Visualized citation graphs using Networkx.",
+        "Built a baseline classifier with feedforward neural networks (FFN) and skip connections.",
+        "Implemented custom graph convolutional layers and node classifiers.",
+        "Incorporated node features, edges, and weights into the GNN model.",
+        "Enhanced the GNN with new nodes dynamically connected to existing ones."
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2023-01-01",
+      "endDate": "2023-02-01",
+      "url": ""
     }
   ]
 }

@@ -3,7 +3,7 @@ page_id: repositories
 layout: page
 permalink: /repositories/
 title: repositories
-description: My work mostly described these repositories.
+description: My work.
 nav: true
 nav_order: 4
 ---
