@@ -41,12 +41,13 @@
       "name": "Biofluids Lab, Indian Institute of Technology (ISM) Dhanbad",
       "position": "Project Fellow",
       "url": "https://iitism.ac.in",
-      "startDate": "2024-05-01",
-      "endDate": "Present",
+      "startDate": "2024-06-01",
+      "endDate": "2024-10-31",
       "summary": "Researching quantitative methods to detect nasal septum deviations and evaluate hydraulic resistance pre- and post-septoplasty surgery.",
       "highlights": [
-        "Developing a software solution to assist doctors in optimizing drug delivery based on patient CT scans (DICOM format).",
-        "Applying machine learning models to predict pressure drop and improve flow parameters."
+        "Developed a deep learning-based pipeline to automatically detect and quantify nasal septum deviation from medical imaging data, aiding pre- and post-surgical assessment.",
+        "Implemented a UNet architecture in PyTorch for pixel-wise segmentation of the nasal septum from 2D slices of CT/MRI scans.",
+        "Aimed to measure deviation severity and estimate airway pressure correction, enabling more accurate evaluation of septoplasty outcomes."
       ]
     },
     {
@@ -55,11 +56,10 @@
       "url": "https://plaid.co.jp",
       "startDate": "2023-07-01",
       "endDate": "2023-08-31",
-      "summary": "Designed and developed an AI bot for Slack to improve productivity.",
+      "summary": "Designed and developed an AI powered Slack bot using Node.js, Dialogflow, and GPT-4 for dynamic intent recognition and generative AI responses.",
       "highlights": [
-        "Increased team productivity by 30% with the AI bot.",
-        "Utilized Docker to reduce deployment time by 50% and ensure consistent performance.",
-        "Leveraged Terraform to manage infrastructure on GCP, reducing provisioning time by 40%."
+        "Reduced operational costs by optimizing cloud resource provisioning for the bot infrastructure on GCP using Terraform.",
+        "Integrated GPT-4 API to provide comprehensive responses for queries outside of predefined Dialogflow intents."
       ]
     },
     {
@@ -84,7 +84,10 @@
       "startDate": "2022-04-01",
       "endDate": "2023-11-01",
       "summary": "Kartavya is a voluntary organisation working towards educating poor children living in slums and villages, and helping their families earn a better living.",
-      "highlights": ["Had a great experience, teaching maths and physics to students.", "Organised cultural events and shared the joy together."]
+      "highlights": [
+        "Had a great experience, teaching maths and physics to students.",
+        "Organised cultural events and shared the joy together."
+      ]
     }
   ],
   "education": [
@@ -155,7 +158,9 @@
       "name": "C++",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Software development"]
+      "keywords": [
+        "Software development"
+      ]
     }
   ],
   "languages": [
@@ -179,7 +184,9 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": ["ML in healthcare, ML in education"]
+      "keywords": [
+        "ML in healthcare, ML in education"
+      ]
     }
   ],
   "references": [
