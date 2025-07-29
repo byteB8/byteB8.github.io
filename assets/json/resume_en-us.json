@@ -84,10 +84,7 @@
       "startDate": "2022-04-01",
       "endDate": "2023-11-01",
       "summary": "Kartavya is a voluntary organisation working towards educating poor children living in slums and villages, and helping their families earn a better living.",
-      "highlights": [
-        "Had a great experience, teaching maths and physics to students.",
-        "Organised cultural events and shared the joy together."
-      ]
+      "highlights": ["Had a great experience, teaching maths and physics to students.", "Organised cultural events and shared the joy together."]
     }
   ],
   "education": [
@@ -158,9 +155,7 @@
       "name": "C++",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Software development"
-      ]
+      "keywords": ["Software development"]
     }
   ],
   "languages": [
@@ -184,9 +179,7 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "ML in healthcare, ML in education"
-      ]
+      "keywords": ["ML in healthcare, ML in education"]
     }
   ],
   "references": [
