@@ -1,9 +1,12 @@
 ---
 page_id: cv
-layout: none
-permalink: /cv/
+layout: cv
+permalink: /assets/pdf/en-us/resume.pdf
 title: cv
 nav: true
 nav_order: 5
-redirect_to: /assets/pdf/en-us/resume.pdf
+cv_pdf: resume.pdf
+description: For pdf formatted cv, please click on pdf icon.
+toc:
+  sidebar: left
 ---
