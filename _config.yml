@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Balbir
 middle_name: 
 last_name: Prasad
-email: 20je0246@me.iitism.ac.in
-keywords: machine learning, deep learning, scientific computing, computer vision, software engineering, research, portfolio-website  # add your own keywords or leave empty
+email: balbir.prasad@iitgn.ac.in
+keywords: machine learning, deep learning, distributed systems, scientific computing, computer vision, software engineering, research, portfolio-website  # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://KumaarBalbir.github.io # the base hostname & protocol for your site
+url: https://byteB8.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: KumaarBalbir # your GitHub user name
+github_username: byteB8 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id:  # Inspire HEP author ID
@@ -83,7 +83,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: balbir-prasad-362aa2121 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: kumaarbalbir # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0009-0001-7242-4254
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -231,7 +231,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/en-us/publications.md
   - _pages/en-us/blog.md
   - _pages/en-us/projects.md
   - purgecss.config.js
@@ -239,6 +238,7 @@ exclude:
   - readme_preview/
   - UPGRADING.md
   - vendor
+  - assets/jupyter/
 keep_files:
   - CNAME
   - .nojekyll
@@ -306,8 +306,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Prasad]
+  first_name: [Balbir, B.]
 
   style: apa
   locale: en

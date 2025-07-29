@@ -1,8 +1,8 @@
 github_users:
-  - KumaarBalbir
+  - byteB8
 
 repo_description_lines_max: 5
 
 github_repos:
-  - KumaarBalbir/reg-grow-bfs
-  - KumaarBalbir/go-parser
+  - byteB8/reg-grow-bfs
+  - byteB8/go-parser
