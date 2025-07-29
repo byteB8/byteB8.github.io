@@ -38,19 +38,6 @@
       ]
     },
     {
-      "name": "Biofluids Lab, Indian Institute of Technology (ISM) Dhanbad",
-      "position": "Project Fellow",
-      "url": "https://iitism.ac.in",
-      "startDate": "2024-06-01",
-      "endDate": "2024-10-31",
-      "summary": "Researching quantitative methods to detect nasal septum deviations and evaluate hydraulic resistance pre- and post-septoplasty surgery.",
-      "highlights": [
-        "Developed a deep learning-based pipeline to automatically detect and quantify nasal septum deviation from medical imaging data, aiding pre- and post-surgical assessment.",
-        "Implemented a UNet architecture in PyTorch for pixel-wise segmentation of the nasal septum from 2D slices of CT/MRI scans.",
-        "Aimed to measure deviation severity and estimate airway pressure correction, enabling more accurate evaluation of septoplasty outcomes."
-      ]
-    },
-    {
       "name": "Plaid Inc, Tokyo, Japan",
       "position": "Software Engineer Intern",
       "url": "https://plaid.co.jp",
@@ -72,6 +59,31 @@
       "highlights": [
         "Benchmarked LLMs such as GPT-4o, Gemini Pro 1.5, and Claude.",
         "Reviewed and annotated 100+ prompt-response pairs, focusing on code generation, summarization, and language translation."
+      ]
+    },
+    {
+      "name": "Biofluids Lab, Indian Institute of Technology (ISM) Dhanbad",
+      "position": "Project Fellow",
+      "url": "https://iitism.ac.in",
+      "startDate": "2024-06-01",
+      "endDate": "2024-10-31",
+      "summary": "Researching quantitative methods to detect nasal septum deviations and evaluate hydraulic resistance pre- and post-septoplasty surgery.",
+      "highlights": [
+        "Developed a deep learning-based pipeline to automatically detect and quantify nasal septum deviation from medical imaging data, aiding pre- and post-surgical assessment.",
+        "Implemented a UNet architecture in PyTorch for pixel-wise segmentation of the nasal septum from 2D slices of CT/MRI scans.",
+        "Aimed to measure deviation severity and estimate airway pressure correction, enabling more accurate evaluation of septoplasty outcomes."
+      ]
+    },
+    {
+      "name": "TEXMiN Innovation Hub, IIT(ISM) Dhanbad",
+      "position": "Technical Project Assistant",
+      "url": "https://texmin.in",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-31",
+      "summary": "Developed a spectral-spatial transformer model with dense connections for hyperspectral image classification.",
+      "highlights": [
+        "Improved accuracy by 7-10% over traditional CNN-based methods.",
+        "Implemented an attention-based transformer network for hyperspectral image analysis."
       ]
     }
   ],
@@ -133,24 +145,6 @@
       "awarder": "Microsoft",
       "url": "",
       "summary": "Worked on automating the academics course distribution and attendance management using machine learning."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Data structures and algorithms in C/C++",
-      "date": "2022-09-01",
-      "issuer": "Udemy",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Predicting the porosity of granite at elevated temperature using machine learning (under review).",
-      "publisher": "Earth Science Informatics",
-      "releaseDate": "2024-05-01",
-      "url": "",
-      "summary": "Developed an ensemble of machine learning models (RF, SVM, XGBoost, KNN) to accurately predict the porosity of granite at elevated temperatures (up to 1000°C), achieving over 95% accuracy with low error metrics. Conducted sensitivity analysis to identify key factors influencing porosity variations."
     }
   ],
   "skills": [
