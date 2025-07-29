@@ -1,7 +1,7 @@
 ---
 page_id: cv
 layout: cv
-permalink: /assets/pdf/en-us/resume.pdf
+permalink: /assets/pdf/resume.pdf
 title: cv
 nav: true
 nav_order: 5
